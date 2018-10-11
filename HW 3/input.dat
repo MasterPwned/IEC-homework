@@ -1,0 +1,9 @@
+H  1
+L  1
+alpha  1e-4
+To  300
+Tm  600
+dt  50
+xSensor  50
+ySensor  50
+k  0.5
